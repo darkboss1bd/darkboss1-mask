@@ -136,7 +136,7 @@ python darkboss1-mask.py -i censys -u
 
 ### Credits
 
-* [Hacker ](https://github.com/maldevel/darkboss1bd
+* [Hacker](https://github.com/maldevel/darkboss1bd
 * [Telegram id](https://t.me/darkvaiadmin)
 * [Website](https://serialkey)
 
