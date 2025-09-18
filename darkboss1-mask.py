@@ -1,13 +1,13 @@
 #!/usr/bin/env python3
 # encoding: UTF-8
 """
-    GasMasK - All in one Information gathering tool - OSINT
-    Modified by: darkboss1bd
+    darkboss1-mask - All in one Information gathering tool - OSINT
+    Develop by: darkboss1bd
     Telegram: https://t.me/darkvaiadmin
     Website: https://serialkey.top/
 """
 __author__ = "darkboss1bd"
-__credits__ = ["mikismaos","darkboss1bd"]
+__credits__ = ["darkboss1bd"]
 __license__ = "GPLv3"
 __version__ = "3.0 (by darkboss1bd)"
 #######################################################
@@ -75,8 +75,8 @@ $$ |  $$ |$$ |  $$ |$$ |  $$\ $$ |\$$\  $$ |      $$ |  $$ |
 $$ |  $$ |$$ |  $$ |\$$$$$$  |$$ | \$$\ $$$$$$$$\ $$ |  $$ |
 \__|  \__|\__|  \__| \______/ \__|  \__|\________|\__|  \__|
                                                                                                                          
-GasMasK v. {} - All in one Information gathering tool - OSINT
-Modified by: darkboss1bd
+darkboss1-mask v. {} - All in one Information gathering tool - OSINT
+Develop by: darkboss1bd
 Telegram: https://t.me/darkvaiadmin
 Website: https://serialkey.top/
 """.format(__version__)
